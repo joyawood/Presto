@@ -4,6 +4,6 @@ Presto is a hybrid life-logging and scheduling app that allows its users to plan
 
 External Resources: JTAppleCalendar Library, https://github.com/patchthecode/JTAppleCalendar
 
-Bugs: Local task notifications are not implemented in their full functionality. Users only recieve notifications when Presto is running in the background (they are not on the app). Also, if the user changes the title of their task, they will recieve two notifications. However, notifications successfuly edit when the time is changed and are canceled when the task is deleted. We decided to keep notifications in the final product because we believe it reflects our hard work and our original plans, and its flawed implementation still adds to the overall experience more than having no notifications would.
+Bugs: Local task notifications are not implemented in their full functionality. Users only recieve notifications when Presto is running in the background (they are not on the app). Also, if the user changes the title of their task, they will recieve two notifications. However, notifications successfuly edit when the time is changed and are canceled when the task is deleted. 
 
 In development
